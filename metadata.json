@@ -1,0 +1,6 @@
+{
+  "name": "Madala Multispeciality Hospital - Nellore",
+  "description": "Madala Multispeciality Hospital in Pogathota, Nellore. 24/7 emergency care, specialized doctors, advanced diagnostics, and affordable compassionate treatment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
